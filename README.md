@@ -1,0 +1,2 @@
+# MySteamList
+MySteamList is a social catologing application which keeps track on reviews for any game exlusively on Steam. Many popular game-reviewing websites rely on 'credible" critics, and only have a limited number of reviews allowed for each game. MySteamList aims to implement a list-like, easily readable system for any user to score games. Many more features will be added in the future, and the name will definitely change as well at some point. 
